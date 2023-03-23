@@ -15,7 +15,6 @@ To use this implementation, you need to have Python 3 installed on your machine.
 
 To run the script, simply execute the following command in a terminal:
 
-Copy code
 ```
 python3 col-solver.py
 ```
