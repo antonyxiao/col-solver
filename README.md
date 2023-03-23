@@ -20,6 +20,4 @@ python3 col-solver.py
 ```
 You will be prompted to enter the starting and ending words. Enter the words and press enter. The script will then show the generation process of words and print the solution path.
 
-> ===IMPOSSIBLE=== 
-
-Will print if no path exists between two words
+**===IMPOSSIBLE===**  will print if no path exists between two words
