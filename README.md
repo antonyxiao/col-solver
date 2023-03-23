@@ -22,4 +22,4 @@ You will be prompted to enter the starting and ending words. Enter the words and
 
 > ===IMPOSSIBLE=== 
 
-if no path exists between two words
+Will print if no path exists between two words
