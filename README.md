@@ -1,5 +1,5 @@
 # Change One Letter Solver
-This project is a Python implementation of a Change One Letter game solver, which is a popular puzzle game where the objective is to convert one word into another word by changing one letter at a time. For example, converting the word 'POOL' to 'SAGE' can be done in the following steps: POOL, POLL, POLE, PALE, SALE, SAGE.
+This project is a Python implementation of a Change One Letter game solver, which is a puzzle game where the objective is to convert one word into another word by changing one letter at a time. For example, converting the word 'POOL' to 'SAGE' can be done in the following steps: POOL, POLL, POLE, PALE, SALE, SAGE.
 
 Strategy and Algorithms Used
 The main strategy used in this implementation is to build an n-ary tree of all possible words that can be formed from the starting word by changing one letter at a time. The tree is built until the ending word is found, and then the solution path is traced back from the ending word to the starting word using the parent indices.
